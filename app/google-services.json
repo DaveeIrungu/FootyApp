@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "622482733365",
+    "firebase_url": "https://footyappv2-b4276.firebaseio.com",
+    "project_id": "footyappv2-b4276",
+    "storage_bucket": "footyappv2-b4276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622482733365:android:6a5ab1173672fdb5",
+        "android_client_info": {
+          "package_name": "com.example.davee.footyappv2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622482733365-lu08sp490atcf60fsh49imqk79j47f2a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.davee.footyappv2",
+            "certificate_hash": "ba9b1e89f3ad2d5d7c87e2f9f6a7fcb8609cbcbf"
+          }
+        },
+        {
+          "client_id": "622482733365-oqhvflmuin2snrgakm35fo06jcp4sb9a.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "622482733365-oqhvflmuin2snrgakm35fo06jcp4sb9a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXkU_ghqEjCfA-LMFr-e3t4CDfp54PPsc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622482733365-oqhvflmuin2snrgakm35fo06jcp4sb9a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
